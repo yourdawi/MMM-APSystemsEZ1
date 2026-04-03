@@ -7,7 +7,7 @@ This module uses the local API of the inverter, requires no cloud for your solar
 
 ## Installation
 
-Navigate to your MagicMirror `modules` directory and clone/copy this project:
+Navigate to your MagicMirror `modules` directory and clone/copy this project.
 
 ## Configuration
 
