@@ -9,11 +9,6 @@ This module uses the local API of the inverter, requires no cloud for your solar
 
 Navigate to your MagicMirror `modules` directory and clone/copy this project:
 
-```bash
-cd ~/MagicMirror/modules
-git clone <your-github-repo-url> MMM-APsystemsEZ1
-```
-
 ## Configuration
 
 Add the module to your `config/config.js` file under `modules`. Adjust the IP address and your geographic location!
