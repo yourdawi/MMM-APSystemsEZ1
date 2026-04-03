@@ -1,0 +1,23 @@
+{
+  "name": "mmm-apsystemsez1",
+  "version": "1.0.0",
+  "description": "A MagicMirror² module for local monitoring of your APsystems EZ1 microinverter.",
+  "main": "MMM-APsystemsEZ1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "magicmirror",
+    "smart mirror",
+    "apsystems",
+    "ez1",
+    "solar",
+    "photovoltaic",
+    "module"
+  ],
+  "author": "Your Name Here",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
